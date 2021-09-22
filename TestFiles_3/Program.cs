@@ -9,6 +9,7 @@ namespace TestFiles_3
         {
             double totalSize = 0;
             double totalSizeAfterDel = 0;
+
             DirectoryInfo dirInf;
 
             string dirpath = null;
